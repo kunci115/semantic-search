@@ -126,3 +126,6 @@ Currently, IndexFlatL2 is in-memory only. To store FAISS on disk, use other FAIS
 ### 5. **How do I contribute?**
 Fork this repo, create a new branch, and submit a PR with changes.</br>
 Add tests in tests/.</br>
+
+## Reference
+https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/semantic-search/README.md</br>
