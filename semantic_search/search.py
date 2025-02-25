@@ -43,7 +43,8 @@ class SemanticSearch:
 
     def add_document(self, text):
         """
-        Encodes and adds a document embedding to the database, then updates the FAISS index if built.
+        Encodes and adds a document embedding to the database,
+        then updates the FAISS index if built.
 
         Args:
             text (str): The text of the document to add.
