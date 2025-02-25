@@ -49,14 +49,15 @@ With **this library**, you can efficiently store, index, and retrieve documents 
 
 ## Installation
 
-1. **Clone or Download** this repo:
+1. **pypi install** this repo:
    ```bash
-   git clone https://github.com/username/semantic-search.git
-   cd semantic-search
+    pip install pysemantic-search
    ```
 
-2. **Install Dependencies**:
+2. **Install Dependencies for Development**:
 ```bash
+    git clone https://github.com/username/semantic-search.git
+    cd semantic-search
     pip install -r requirements.txt
     
     Make sure to adjust dependencies (faiss-cpu vs. faiss-gpu) depending on your environment.
